@@ -1,0 +1,32 @@
+.search-button{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.meal-img{
+    height: 300px;
+}
+
+#meals{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:1;
+}
+
+.meal{
+    padding: 30px;
+}
+
+.col-6{
+    width: 50%;
+    float: left;
+    
+}
+#single {
+    width: 600px;
+    
+    margin: 0 auto;
+    margin-top:20px;
+    padding: 10px;
+    
+}
